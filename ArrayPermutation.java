@@ -6,6 +6,7 @@ public class ArrayPermutation {
     public static void main(String[] args) {
         buildArray();
     }
+    //Hello Kristen
 
     public static void buildArray(){
         Scanner scanner= new Scanner(System.in);
